@@ -1,0 +1,43 @@
+{
+  "characteristics": [
+    "🚀 Highly motivated and self-driven",
+    "🧠 Analytical thinker & problem solver",
+    "⚡ Fast learner and adaptable",
+    "🤝 Team-oriented and communicative",
+    "🎯 Focused on clean, efficient code"
+  ],
+  "projects": [
+    {
+      "title": "API Management System",
+      "description": "RESTful API with FastAPI & PostgreSQL (↓ response time 40%)"
+    },
+    {
+      "title": "Inventory Tracking App",
+      "description": "Node.js + MongoDB backend"
+    },
+    {
+      "title": "Student Management System",
+      "description": "Django app with auth & scalability"
+    }
+  ],
+  "experience": {
+    "role": "Backend/API Developer",
+    "type": "Part-time",
+    "details": [
+      "Python & Node.js backend development",
+      "Database design (PostgreSQL, MongoDB)",
+      "REST API & performance optimization"
+    ]
+  },
+  "skills": [
+    "✔ Python (FastAPI, Django, REST APIs)",
+    "✔ Node.js (Express, API Development)",
+    "✔ Database Design (PostgreSQL, MongoDB)",
+    "✔ Git & Version Control",
+    "✔ System Architecture & Backend Optimization"
+  ],
+  "education": [
+    "<strong>Bachelor of Computer Engineering</strong> – Current",
+    "Courses: Data Structures, Databases, Web Dev, System Design"
+  ]
+}
